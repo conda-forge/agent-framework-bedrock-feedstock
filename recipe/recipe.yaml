@@ -24,7 +24,7 @@ requirements:
     - hatchling
   run:
     - python >=${{ python_min }}
-    - agent-framework-core <2,>=1.4.0
+    - agent-framework-core <2,>=1.8.0
     - boto3 <2.0.0,>=1.35.0
     - botocore <2.0.0,>=1.35.0
 
