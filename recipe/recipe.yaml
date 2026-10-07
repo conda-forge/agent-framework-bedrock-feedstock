@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.0b260604"
+  version: "1.0.0b260721"
   python_min: "3.10"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/agent-framework-bedrock/agent_framework_bedrock-${{ version }}.tar.gz
-  sha256: 07c927df0516dba84fe3a784201bd28c63fcf1dc12e744d17eb3a16135eca2f8
+  sha256: 1accb84e43cca78213a631280210753d5f38565584f4c5a1369f1dffa6637a51
 
 build:
   noarch: python
